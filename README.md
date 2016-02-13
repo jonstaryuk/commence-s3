@@ -2,7 +2,7 @@
 
 A script for quickly creating a new static site on S3.
 
-It makes a new bucket, grants public read access to everyone via bucket policy, configures the static website with `index.html` and `error.html` pages, and opens it in your browser.
+It makes a new bucket, adds a bucket policy granting public read access, configures the static website with `index.html` and `error.html` pages, and opens it in your browser.
 
 Usage:
 
